@@ -9,12 +9,12 @@
     <link rel="stylesheet" href="css/animate.css?06112020">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css?06112020">
-    <link rel="stylesheet" href="css/index.css?11012021">
+    <link rel="stylesheet" href="css/index.css?20022021">
     <link rel="stylesheet" href="css/navbar.css?06112020">
     <link rel="stylesheet" href="css/proyectos.css?06112020">
     <link rel="stylesheet" href="css/descubre.css?10012021">
-    <link rel="stylesheet" href="css/Astronauta.css?10012021">
-    <link rel="stylesheet" href="css/seccionplanetas.css?08022021">
+    <link rel="stylesheet" href="css/Astronauta.css?20022021">
+    <link rel="stylesheet" href="css/seccionplanetas.css?20022021">
     <link rel="stylesheet" href="css/portafolio.css?06112020">
     <link rel="stylesheet" href="css/formulario.css?10012021">
     <link rel="stylesheet" href="css/seccionsubplanetas.css?07112020">
@@ -116,7 +116,7 @@
         <div class="container d-flex justify-content-center">
           <div class=" d-flex flex-column intro text-center">
            
-            <h1 class="mb-1 mt-5 titulogrande display-1">Páginas Web en Bogotá</h1> 
+            <h1 class="mb-1 mt-35 titulogrande display-1">Páginas Web en Bogotá</h1> 
             
             <h2 class="mb-3 mt-3 display-4p"> Diseño, programación y posicionamiento</h2> 
             <div>
