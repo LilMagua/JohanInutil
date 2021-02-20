@@ -1,0 +1,14 @@
+.bg-primario{
+    transition: all 0.2s;
+    background-color: transparent;
+}
+.bg-personalizado{
+    transition: all 0.2s;
+    background-color: #272443;
+}
+
+@media only screen and (max-width: 767px){
+    .navbar-nav.ml-auto{
+        background: #272443;
+    }
+}

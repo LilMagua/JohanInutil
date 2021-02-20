@@ -1,0 +1,31 @@
+.imagenfond{
+
+    background: url("../img/54Mesa\ de\ trabajo\ 1\ copia\ 7.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;}
+
+    .card2{
+    background: #BAE8E8;
+    border-radius: 17px;
+    color: #272343;
+}
+
+.display-4pp
+{font-size: 35px;}
+
+.tamaño-fuente
+{font-size: 20px;}
+
+.mb-5p
+{margin-bottom: 150px;}
+
+.tamaño-imagendip
+{height: 250px;}
+
+@media (min-width: 1200px) { 
+
+    .tamaño-imagendip
+    {height: 300px;}
+
+ }

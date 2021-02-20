@@ -1,0 +1,36 @@
+.bg-blog1{
+    background-color: #272343;
+}
+
+
+.tamaño-titulo-blog1{
+    font-size: 50px;
+}
+
+.tamaño-subtitulo-blog1{
+    font-size: 28px;
+}
+
+.tamaño-contenido-blog1{
+    font-size: 22px;
+}
+
+.imagenblog22{
+    width: 300px;
+}
+
+.margen-superior-blog{
+    margin-top: 50px;
+}
+
+.botonblog22{
+    color: #fff;
+    background-color: #272343;
+}
+
+@media (min-width: 800px) { 
+    .imagenblog22{
+        width: 600px;
+    }
+    
+ }

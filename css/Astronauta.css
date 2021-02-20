@@ -1,0 +1,39 @@
+.icono
+{width:80px;}
+
+.tamaño-astronauta
+{width: 250px;}
+
+.contenedor
+{margin-top: 850px;}
+
+@media (min-width: 767.98px) { 
+    .icono
+    {width: 50px;}
+
+    .tamaño-astronauta
+{width: 520px;}
+
+.contenedor
+{margin-top: 500px;}
+}
+
+@media (min-width: 992px) { 
+    .tamaño-astronauta
+{width: 480px;}
+
+.contenedor
+{margin-top: 200px;}
+}
+
+
+@media (min-width: 1000px) { 
+.contenedor
+{margin-top: 100px;}
+}
+
+
+@media (min-width: 1200px) { 
+    .contenedor
+    {margin-top: 0px;}
+    }

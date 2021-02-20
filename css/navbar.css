@@ -1,0 +1,37 @@
+
+.fondo
+{background-image: url(../HolaMundo/images/imagen1.png);
+height: 100vh;
+background-position: center;
+background-size: cover;}
+
+.fondo-2
+{background-color: rgba(0, 0, 0, .5);
+height: 100vh;}
+
+.btn
+{font-size: 1.25rem;
+font-weight: lighter;}
+
+.pb-25
+{padding-bottom: 2.5rem;}
+
+.bg-primary-1
+{background-color: #272343;}
+
+.iconos
+{font-size: 2.25rem;}
+
+.card
+{border: none;}
+
+.btn-primary-1
+{background-color: black;
+color: white;}
+
+.btn-primary-1:hover
+{color: white;}
+
+.btn-link-1
+{background-color: black;
+color: white;}

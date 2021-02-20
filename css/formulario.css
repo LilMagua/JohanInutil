@@ -1,0 +1,90 @@
+.fondformulario{
+    
+    background: url("../img/35Mesa\ de\ trabajo\ 3.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh ;
+    
+}
+
+.mensaje{
+    height: 120px;
+}
+.colorformulario{
+    color: #F6FFFF;
+}
+.formuindividual{
+    border-radius: 10px;
+    border: none;
+}
+.titulo{
+    margin-top: 120px;
+}
+.botonformulario{
+    width: 100%;
+    border-radius: 10px;
+    background: #BAE8E8;
+    color: #272343;
+    border: none;
+    margin-bottom: 0px;
+}
+
+.botonformulario:hover{
+    background: #abd3d2;
+     
+ }
+
+.footer{
+    background: #BAE8E8;
+    color: #272343;
+    
+}
+.iconoform{
+    height: 30px;
+}
+.footer2{
+    background: #272343;
+    color: #FFFFFF;
+}
+.logofooter{
+    height: 30px;
+}
+
+.tamaño-ovni{
+    height: 80px;
+}
+
+.tamaño-texto-titulo{
+    font-size: 15px;
+}
+
+.tamaño-texto-titulo1{
+    font-size: 12px;
+}
+
+@media (max-width: 767.98px) {
+
+    .titulo{
+        margin-top: 60px;
+    } 
+}
+
+    @media (min-width: 550px) {
+
+        .tamaño-texto-titulo{
+            font-size: 20px;
+        }
+        
+        .tamaño-texto-titulo1{
+            font-size: 15px;
+        }
+    }
+
+
+
+
+    .separacion
+{margin-right: 20px;
+margin-left: -20px;
+width: 50px;}
+}

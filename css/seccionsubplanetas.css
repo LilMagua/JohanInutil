@@ -1,0 +1,35 @@
+.estrellas{
+
+    background: url("../img/Fondo1.png");
+    background-size: cover;
+    background-position: center;
+    height: 1700px;
+}
+
+
+@media (max-width: 767.98px) {
+    .estrellas{
+        height: auto;
+        display: none;
+    }
+    .estrellas2{
+
+        background: url("../img/Sebastian4.png");
+        background-size: cover;
+        background-position: center;
+        height: 250vh;
+        display: none;
+        height: auto;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+

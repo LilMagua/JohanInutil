@@ -1,0 +1,11 @@
+.bg-primario{
+    background-color: #272443;
+}
+.navbar-brand{
+    width: 84px;
+    
+    }
+
+.navbar-nav .nav-item .nav-link{
+    color: white;
+}

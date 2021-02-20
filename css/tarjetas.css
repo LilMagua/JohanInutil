@@ -1,0 +1,21 @@
+.tarjetasblog{
+    background: #E3F6F5;
+    border-radius: 28px;
+    width: 700px;
+}
+
+.botonblog{
+    width: 90%;
+    border-radius: 22px;
+    background: #272343;
+}
+.imagencomputador{
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+}
+.contenedortarjeta{
+    border-radius: 28px;
+    background:#E3F6F5 ;
+    color: #272343;
+}
